@@ -36,6 +36,7 @@ https://public.tableau.com/app/profile/anna.eremina/viz/karpov2/sheet12
 
 Ссылка на Табло:
 https://public.tableau.com/app/profile/anna.eremina/viz/Monetaryanalysiskarpovcourses2/Analysisofemployeebonuses
+
 Dashboard Canvas: pdf файл в репозитории
 
 Оценка: 30/30. Кенвас заполнен хорошо. В 5м лучше писать более точечные вопросы - какая сумма премий, какое распределение премий и проектов по деп-м и ролям, какие данные - немного обще. Дашборд классный и закрывает основные задачи кенваса.
